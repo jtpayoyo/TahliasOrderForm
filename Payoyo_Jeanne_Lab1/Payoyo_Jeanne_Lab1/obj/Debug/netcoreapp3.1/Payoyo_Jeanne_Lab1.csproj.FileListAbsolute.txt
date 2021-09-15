@@ -1,0 +1,33 @@
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.exe
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.deps.json
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.runtimeconfig.json
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.runtimeconfig.dev.json
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.dll
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.pdb
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.csproj.AssemblyReference.cache
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.frmOrder.resources
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.Properties.Resources.resources
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.csproj.GenerateResource.cache
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.AssemblyInfoInputs.cache
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.AssemblyInfo.cs
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.dll
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.pdb
+C:\Users\apple\source\repos\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.genruntimeconfig.cache
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.exe
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.deps.json
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.runtimeconfig.json
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.runtimeconfig.dev.json
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.dll
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\bin\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.pdb
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.csproj.AssemblyReference.cache
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.frmOrder.resources
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.Properties.Resources.resources
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.csproj.GenerateResource.cache
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.AssemblyInfoInputs.cache
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.AssemblyInfo.cs
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.dll
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.pdb
+C:\Users\870213\Documents\Jeanne\FOR GITHUB\MenuGUI\Payoyo_Jeanne_Lab1\Payoyo_Jeanne_Lab1\obj\Debug\netcoreapp3.1\Payoyo_Jeanne_Lab1.genruntimeconfig.cache
